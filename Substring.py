@@ -28,9 +28,3 @@ output = fs.calcualte_Substring()
 
 print("List of substring from original string :- ", output)
 print("===================================================================")
-
-
-
-
-
-
